@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-// Lab 13 — Your Name
+// Lab 13 — Jesus
 // CIS 5 Week 13 · Names and a roster
 
 struct Student {
